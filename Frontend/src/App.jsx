@@ -11,7 +11,7 @@ const App = () => {
     axios.post("http://localhost:5000/", {
       name, age
     })
-    alert("Jake Mongo Me Check Kar Na Bhai")
+    alert("data gya mongo me")
   };
 
 
